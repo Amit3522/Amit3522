@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**Amit3522/Amit3522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently managing and designing scalable, reliable and secure data intensive systems.
 - 🌱 I’m currently learning more on Publisher subscriber messaging systems and Kubernetes. 
