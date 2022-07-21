@@ -7,4 +7,3 @@
 - 📫 How to reach me: Email
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I like system design.   
--->
